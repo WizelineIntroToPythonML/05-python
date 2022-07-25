@@ -18,6 +18,8 @@
 
 [Today's Jupyter Notebook](./programming.ipynb)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WizelineIntroToPythonML/05-python/HEAD?labpath=programming.ipynb)
+
 ## Feedback
 
 ![Your Feedback Matters](images/feedback.png)
