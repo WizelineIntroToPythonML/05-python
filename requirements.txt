@@ -1,0 +1,7 @@
+# Jupyter and Pandas Libraries
+jupyter
+
+# Development tools
+black
+pylint
+mypy
